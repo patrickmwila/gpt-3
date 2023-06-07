@@ -1,6 +1,8 @@
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from './containers'
 import { Navbar, Brand, CTA } from './components'
 
+import './App.css'
+
 const App = () => {
   return (
     <div className="App">
